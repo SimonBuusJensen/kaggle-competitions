@@ -1,5 +1,4 @@
-House*Prices/.idea/*
-House*Prices/.DS_Store
 *.DS_Store
-House Prices/src/.ipynb_checkpoints/*
 *.idea*
+
+House*Prices/src/.ipynb_checkpoints/*
